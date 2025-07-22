@@ -1,0 +1,48 @@
+About the job
+ML Scientist II, Advertising Optimization & Automation
+
+
+
+Candidates for this position are preferred to be based in Bangalore, India and will be expected to comply with their team's hybrid work schedule requirements.
+
+
+
+Who we are
+
+Wayfair’s Advertising business is rapidly expanding, adding hundreds of millions of dollars in profits to Wayfair. We are building Sponsored Products, Display & Video Ad offerings that cater to a variety of Advertiser goals while showing highly relevant and engaging Ads to millions of customers. We are evolving our Ads Platform to empower advertisers across all sophistication levels to grow their business on Wayfair at a strong, positive ROI and are leveraging state of the art Machine Learning techniques.
+The Advertising Optimization & Automation Science team is central to this effort. We leverage machine learning and generative AI to streamline campaign workflows, delivering impactful recommendations on budget allocation, target Return on Ad Spend (tROAS), and SKU selection. Additionally, we are developing intelligent systems for creative optimization and exploring agentic frameworks to further simplify and enhance advertiser interactions.
+We are looking for Machine Learning Scientist II to join the Advertising Optimization & Automation Science team. In this role, you will be responsible for the development of budget, tROAS and SKU recommendations and other machine learning capabilities supporting our ads business. You will work closely with other scientists, as well as members of our internal Product and Engineering teams, to apply your engineering and machine learning skills to solve some of our most impactful and intellectually challenging problems to directly impact Wayfair’s revenue.
+
+
+What you’ll do
+
+Design, build, deploy and refine large-scale machine learning models and algorithmic decision-making systems that solve real-world problems for customers
+Work cross-functionally with commercial stakeholders to understand business problems or opportunities and develop appropriately scoped analytical solutions
+Collaborate closely with various engineering, infrastructure, and machine learning platform teams to ensure adoption of best-practices in how we build and deploy scalable machine learning services
+Identify new opportunities and insights from the data (where can the models be improved? What is the projected ROI of a proposed modification?)
+Be obsessed with the customer and maintain a customer-centric lens in how we frame, approach, and ultimately solve every problem we work on.
+
+
+What you’ll need
+
+3+ years of industry experience with a Bachelor/ Master’s degree or minimum of 1-2 years of industry experience with PhD in Computer Science, Mathematics, Statistics, or related field.
+Proficiency in Python or one other high-level programming language
+Solid hands-on expertise deploying machine learning solutions into production
+Strong theoretical understanding of statistical models such as regression, clustering and machine learning algorithms such as decision trees, neural networks, etc.
+Strong written and verbal communication skills
+Intellectual curiosity and enthusiastic about continuous learning
+
+
+Nice to have
+
+Experience with Python machine learning ecosystem (numpy, pandas, sklearn, XGBoost, etc.) and/or Apache Spark Ecosystem (Spark SQL, MLlib/Spark ML)
+Familiarity with GCP (or AWS, Azure), machine learning model development frameworks, machine learning orchestration tools (Airflow, Kubeflow or MLFlow)
+Experience in information retrieval, query/intent understanding, search ranking, recommender systems etc.
+Experience with deep learning frameworks like PyTorch, Tensorflow, etc.
+
+
+About Wayfair Inc.
+
+Wayfair is one of the world’s largest online destinations for the home. Whether you work in our global headquarters in Boston, or in our warehouses or offices throughout the world, we’re reinventing the way people shop for their homes. Through our commitment to industry-leading technology and creative problem-solving, we are confident that Wayfair will be home to the most rewarding work of your career. If you’re looking for rapid growth, constant learning, and dynamic challenges, then you’ll find that amazing career opportunities are knocking.
+No matter who you are, Wayfair is a place you can call home. We’re a community of innovators, risk-takers, and trailblazers who celebrate our differences, and know that our unique perspectives make us stronger, smarter, and well-positioned for success. We value and rely on the collective voices of our employees, customers, community, and suppliers to help guide us as we build a better Wayfair – and world – for all. Every voice, every perspective matters. That’s why we’re proud to be an equal opportunity employer. We do not discriminate on the basis of race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, genetic information, or any other legally protected characteristic.
+Your personal data is processed in accordance with our Candidate Privacy Notice (https://www.wayfair.com/careers/privacy). If you have any questions or wish to exercise your rights under applicable privacy and data protection laws, please contact us at dataprotectionofficer@wayfair.com.
